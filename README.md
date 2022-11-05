@@ -1,4 +1,7 @@
-
+<div>
+ <img src="https://user-images.githubusercontent.com/101813717/200142036-cc2a37c8-930c-481c-945a-f459beb8b614.gif" />
+ <img src="https://user-images.githubusercontent.com/101813717/200142036-cc2a37c8-930c-481c-945a-f459beb8b614.gif" />
+</div> 
 <h1>Hello Guys! 👋</h1>
 
 I'm Ahmet. I'm interested in <b>Mobile Application Development 📱</b> and <b>System Development💻</b>.
@@ -35,3 +38,8 @@ I'm Ahmet. I'm interested in <b>Mobile Application Development 📱</b> and <b>S
 <a href="https://twitter.com/ahmettahatokmak"><img src="https://user-images.githubusercontent.com/101813717/200141794-16ac0bba-af62-4af8-9aee-b13078d82bf4.svg" width=85 height=20 /></a>
 </div>
 
+
+<div>
+ <img src="https://user-images.githubusercontent.com/101813717/200142036-cc2a37c8-930c-481c-945a-f459beb8b614.gif" />
+ <img src="https://user-images.githubusercontent.com/101813717/200142036-cc2a37c8-930c-481c-945a-f459beb8b614.gif" />
+</div> 
