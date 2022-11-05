@@ -10,7 +10,7 @@ I'm mobile application developer for 2 years. I use Flutter and Dart.
   <li><a href="https://twitter.com/ahmettahatokmak"><img src="https://cdn.freebiesupply.com/logos/large/2x/twitter-3-logo-png-transparent.png" width = 24 height=24 /></a></li>
 
   <li><a href="[https://www.linkedin.com/in/ahmet-taha-tokmak-709bba226/](https://www.instagram.com/tahatkmk/)"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width = 24 height=24 /></a></li>
-</li>
+
 
 </ul>
 
