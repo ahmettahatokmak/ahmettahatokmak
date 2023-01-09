@@ -13,7 +13,6 @@ I'm Ahmet. I'm interested in <b>Mobile Application Development 📱</b> and <b>S
 
 <h2>Who am I🤔</h2>
 <ul>
-<li>🎂I'm <b>16.</b></li>
 <li>🇹🇷I'm from <b>Turkey</b></li>
 <li>I've been dealing with flutter for <b>2 years</b></li>
 <li>I've been interested system development for <b>5 years</b></li>
