@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Ahmet. I'm interested in Mobile Application Development and System Development 🇹🇷I'm from turkey. I've been dealing with flutter for 3 years. I've been interested system development for 5 years
+I'm Ahmet. I'm interested in Mobile Application Development and System Development. I'm from Turkey🇹🇷. I've been dealing with flutter for 3 years. I've been interested system development for 5 years
 
 
 ## 🌐 Socials:
