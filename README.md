@@ -1,51 +1,24 @@
-<div>
- <img src="https://user-images.githubusercontent.com/101813717/200142036-cc2a37c8-930c-481c-945a-f459beb8b614.gif" />
- <img src="https://user-images.githubusercontent.com/101813717/200142036-cc2a37c8-930c-481c-945a-f459beb8b614.gif" />
-</div> 
+# 💫 About Me:
+I'm Ahmet. I'm interested in Mobile Application Development and System Development 🇹🇷I'm from turkey. I've been dealing with flutter for 3 years. I've been interested system development for 5 years
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmet-taha-tokmak-709bba226/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@ahmettahatkmk) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/ahmettahatokmak) 
 
-<h1>Hello Guys! 👋</h1>
+# 💻 Tech Stack:
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ahmettahatokmak&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahmettahatokmak&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmettahatokmak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I'm Ahmet. I'm interested in <b>Mobile Application Development 📱</b> and <b>System Development💻</b>.
-<br>
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=https://twitter.com/ahmettahatokmak)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h2>Who am I🤔</h2>
-<ul>
-<li>🇹🇷I'm from <b>Turkey</b></li>
-<li>I've been dealing with flutter for <b>3 years</b></li>
-<li>I've been interested system development for <b>5 years</b></li>
+---
+[![](https://visitcount.itsvg.in/api?id=ahmettahatokmak&icon=8&color=1)](https://visitcount.itsvg.in)
 
-</ul>
-
-
-<h2>Programming Languages💻</h2>
-<ul>
-<li>Flutter <b>[%98]</b></li>
-<li>Dart <b>[%98]</b></li>
-<li>Python <b>[%55]</b></li>
-<li>NodeJs <b>[%50]</b></li>
-<li>Java <b>[%40]</b></li>
-<li>C <b>[%20]</b></li>
-</ul>
-
-
-
-
-<h3>Quick Links🔗</h3>
-<div>
- <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width=24 height=24/>
-<a href="https://www.linkedin.com/in/ahmet-taha-tokmak-709bba226/"><img src="https://user-images.githubusercontent.com/101813717/200141806-81f6f21c-5e40-479b-b151-e7b7c1723898.svg" width=85 height=20 /></a>
-<a href="https://twitter.com/ahmettahatokmak"><img src="https://user-images.githubusercontent.com/101813717/200141794-16ac0bba-af62-4af8-9aee-b13078d82bf4.svg" width=85 height=20 /></a>
- <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width=24 height=24/>
-</div>
-
-
-
-
-
-<div>
- <img src="https://user-images.githubusercontent.com/101813717/200142036-cc2a37c8-930c-481c-945a-f459beb8b614.gif" />
- <img src="https://user-images.githubusercontent.com/101813717/200142036-cc2a37c8-930c-481c-945a-f459beb8b614.gif" />
-</div> 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
